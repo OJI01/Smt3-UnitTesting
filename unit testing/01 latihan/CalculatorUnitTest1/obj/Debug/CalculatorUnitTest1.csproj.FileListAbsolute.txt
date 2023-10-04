@@ -1,0 +1,11 @@
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.csprojAssemblyReference.cache
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.csproj.CoreCompileInputs.cache
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorUnitTest1.dll
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorUnitTest1.pdb
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorMachine.dll
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\bin\Debug\nunit.framework.dll
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorMachine.pdb
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\bin\Debug\nunit.framework.xml
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.csproj.CopyComplete
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.dll
+E:\22.11.4857\unit testing\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.pdb

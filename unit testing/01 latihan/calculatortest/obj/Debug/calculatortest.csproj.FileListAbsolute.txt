@@ -1,0 +1,10 @@
+E:\22.11.4857\unit testing\01 latihan\calculatortest\bin\Debug\calculatortest.exe.config
+E:\22.11.4857\unit testing\01 latihan\calculatortest\bin\Debug\calculatortest.exe
+E:\22.11.4857\unit testing\01 latihan\calculatortest\bin\Debug\calculatortest.pdb
+E:\22.11.4857\unit testing\01 latihan\calculatortest\bin\Debug\CalculatorMachine.dll
+E:\22.11.4857\unit testing\01 latihan\calculatortest\bin\Debug\CalculatorMachine.pdb
+E:\22.11.4857\unit testing\01 latihan\calculatortest\obj\Debug\calculatortest.csprojAssemblyReference.cache
+E:\22.11.4857\unit testing\01 latihan\calculatortest\obj\Debug\calculatortest.csproj.CoreCompileInputs.cache
+E:\22.11.4857\unit testing\01 latihan\calculatortest\obj\Debug\calculatortest.csproj.CopyComplete
+E:\22.11.4857\unit testing\01 latihan\calculatortest\obj\Debug\calculatortest.exe
+E:\22.11.4857\unit testing\01 latihan\calculatortest\obj\Debug\calculatortest.pdb
